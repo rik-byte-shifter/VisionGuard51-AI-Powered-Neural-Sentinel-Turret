@@ -16,6 +16,11 @@
 </p>
 
 <p align="center">
+  <img src="assets/vision1.jpg" alt="VisionGuard51 project image 1" width="49%" />
+  <img src="assets/vision2.jpg" alt="VisionGuard51 project image 2" width="49%" />
+</p>
+
+<p align="center">
   <a href="#the-vibe">The vibe</a> •
   <a href="#what-it-does">What it does</a> •
   <a href="#system-overview">System overview</a> •
@@ -77,6 +82,8 @@ If you like projects that feel like a **mission control panel**—this is that.
 ├─ assets/                        # README images
 │  ├─ visionguard51-banner.svg
 │  ├─ visionguard51-overview.svg
+│  ├─ project-1.jpg
+│  ├─ project-2.jpg
 │  └─ diagram.jpg
 ├─ authorized_db/                 # Authorized faces (ignored by git)
 ├─ dataset/                       # Enrollment/capture data (ignored by git)
