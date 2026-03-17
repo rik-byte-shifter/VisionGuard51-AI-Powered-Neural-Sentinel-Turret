@@ -231,4 +231,11 @@ This project is for **research/education**. If you attach actuation hardware:
 
 ## License
 
-Add a `LICENSE` file if you plan to distribute this project.
+Licensed under the **PolyForm Noncommercial 1.0.0** license.
+
+- **Allowed**: testing, study, learning, research, hobby use
+- **Not allowed**: selling, commercializing, or marketing this project (or derivatives)
+
+**Attribution is required** for any redistribution (see the `Required Notice:` lines in `LICENSE`).
+
+See `LICENSE` for full terms.
