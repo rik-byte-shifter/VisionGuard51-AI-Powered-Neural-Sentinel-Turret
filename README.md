@@ -33,7 +33,7 @@
 ## System overview
 
 <p align="center">
-  <img src="assets/visionguard51-overview.svg" alt="VisionGuard51 system overview diagram" width="100%" />
+  <img src="assets/diagram.jpg" alt="VisionGuard51 system overview diagram" width="100%" />
 </p>
 
 ## Tech stack
